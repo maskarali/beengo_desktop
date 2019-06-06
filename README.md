@@ -1,13 +1,14 @@
-#beenGo
-This is a simple beengo application based on javafx.
+# beenGo
 
-#pre-request
+	This is a simple beengo application based on javafx.
+
+# pre-request
 
 	1-you need to have mysql installed on ur computer
 	
 	2-you need java 8 or later installed
 
-#how to use
+# how to use
 	->first clone the project
 	
 	->then extract the project on your directory
