@@ -21,9 +21,14 @@
 	
 ## Screenshots
 
+	## login
+	
+!["no preview"](/screenshots/login.png)
+
 	## client
 	
-!["no preview"](/screenshots/client.jpg)
+!["no preview"](/screenshots/client.png)
 
 	##server
-!["no preview"](/screenshots/server.jpg)
+	
+!["no preview"](/screenshots/server.png)
