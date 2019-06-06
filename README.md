@@ -19,6 +19,11 @@
 	
 	->run the server application first then run the client.
 	
-##Screenshots
+## Screenshots
+
+	## client
+	
 !["no preview"](/screenshots/client.jpg)
+
+	##server
 !["no preview"](/screenshots/server.jpg)
