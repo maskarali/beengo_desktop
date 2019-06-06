@@ -2,13 +2,13 @@
 
 	This is a simple beengo application based on javafx.
 
-# pre-request
+## pre-request
 
-	1-you need to have mysql installed on ur computer
+	1. you need to have mysql installed on ur computer
 	
-	2-you need java 8 or later installed
+	2. you need java 8 or later installed
 
-# how to use
+## how to use
 	->first clone the project
 	
 	->then extract the project on your directory
@@ -18,4 +18,7 @@
 	->open the projects on Netbeans IDE 
 	
 	->run the server application first then run the client.
-
+	
+##Screenshots
+!["no preview"](/screenshots/client.jpg)
+!["no preview"](/screenshots/server.jpg)
